@@ -1,0 +1,4554 @@
+#mpahla {
+  position: relative;
+  width: 1920px;
+  height: 2160px;
+  overflow: hidden;
+  background: #f9f9f9;
+}
+
+#rectangle {
+  position: absolute;
+  top: 1074px;
+  width: 1920px;
+  height: 1236px;
+  background: linear-gradient(180deg, rgba(249,249,249,0.14) 0%, rgba(255,153,0,0.14) 95.47%);
+}
+
+#rectangle {
+  position: absolute;
+  left: 1920px;
+  top: 726px;
+  width: 1920px;
+  height: 1236px;
+  opacity: 0.26;
+  background: linear-gradient(180deg, rgba(249,249,249,0.52) 0%, rgba(255,153,0,0.52) 95.47%);
+  transform: rotate(180deg);
+}
+
+#last-passion-santic- {
+  position: absolute;
+  left: 121px;
+  top: -128px;
+  width: 660px;
+  height: 791px;
+  background: url('9e816885967c18a51262dd2cb404470a616ebafd.png');
+  background-size: 660px 791px;
+}
+
+#rectangle {
+  position: absolute;
+  left: 237px;
+  top: 1962px;
+  width: 1446px;
+  height: 90px;
+  border-radius: 106px;
+  opacity: 0.8;
+  background: #484647;
+  border: 0px  solid #bdbdbd;
+}
+
+#rectangle {
+  position: absolute;
+  left: 996px;
+  top: 158px;
+  width: 497px;
+  height: 47px;
+  border-radius: 36px;
+  background: #eee2e2;
+}
+
+#home {
+  position: absolute;
+  left: 1027px;
+  top: 165px;
+  width: 65px;
+  height: 29px;
+  font-family: 'Inria Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+  white-space: nowrap;
+  color: #000000;
+}
+
+#mpahla {
+  position: absolute;
+  left: 1129px;
+  top: 165px;
+  width: 90px;
+  height: 29px;
+  font-family: 'Inria Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+  white-space: nowrap;
+  text-align: center;
+  color: #000000;
+}
+
+#contact {
+  position: absolute;
+  left: 1245px;
+  top: 165px;
+  width: 94px;
+  height: 29px;
+  font-family: 'Inria Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+  white-space: nowrap;
+  color: #000000;
+}
+
+#signup {
+  position: absolute;
+  left: 1378px;
+  top: 165px;
+  width: 85px;
+  height: 29px;
+  font-family: 'Inria Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+  white-space: nowrap;
+  color: #000000;
+}
+
+#box {
+  position: absolute;
+  left: 1522px;
+  top: 68px;
+  width: 44px;
+  height: 22px;
+  overflow: hidden;
+}
+
+#path {
+  position: absolute;
+  left: 0.35px;
+  top: 5.08px;
+  width: 24.89px;
+  height: 8.1px;
+  background: #444b54;
+}
+
+#path {
+  position: absolute;
+  left: 6.03px;
+  top: 5.65px;
+  width: 36.17px;
+  height: 17.71px;
+  background: #ffffff;
+}
+
+#shape {
+  position: absolute;
+  left: 6.03px;
+  top: 5.65px;
+  width: 36.17px;
+  height: 17.71px;
+  background: #ffffff;
+}
+
+#path {
+  position: absolute;
+  width: 36.17px;
+  height: 17.71px;
+}
+
+#path {
+  position: absolute;
+  left: 18.09px;
+  width: 18.09px;
+  height: 3.2px;
+}
+
+#path {
+  position: absolute;
+  left: 4.9px;
+  top: 5.09px;
+  width: 20.35px;
+  height: 18.84px;
+  background: #444b54;
+}
+
+#shape {
+  position: absolute;
+  left: 6.03px;
+  top: 5.65px;
+  width: 40.69px;
+  height: 10.17px;
+  background: #ffffff;
+}
+
+#path {
+  position: absolute;
+  left: 18.09px;
+  width: 18.09px;
+  height: 3.2px;
+}
+
+#path {
+  position: absolute;
+  left: 18.09px;
+  width: 18.09px;
+  height: 3.2px;
+}
+
+#path {
+  position: absolute;
+  top: 3.2px;
+  width: 18.09px;
+  height: 3.2px;
+}
+
+#path {
+  position: absolute;
+  left: 18.09px;
+  top: 3.2px;
+  width: 22.61px;
+  height: 6.97px;
+}
+
+#shape {
+  position: absolute;
+  left: 4.97px;
+  top: 5.11px;
+  width: 42.9px;
+  height: 18.8px;
+  background: #444b54;
+}
+
+#path {
+  position: absolute;
+  width: 42.9px;
+  height: 18.8px;
+}
+
+#path {
+  position: absolute;
+  left: 20.27px;
+  top: 1.34px;
+  width: 13.56px;
+  height: 4.82px;
+}
+
+#path {
+  position: absolute;
+  left: 2.19px;
+  top: 4.54px;
+  width: 15.83px;
+  height: 12.91px;
+}
+
+#path {
+  position: absolute;
+  left: 20.27px;
+  top: 8.99px;
+  width: 15.83px;
+  height: 8.48px;
+}
+
+#path {
+  position: absolute;
+  left: 20.8px;
+  top: 4.43px;
+  width: 19.25px;
+  height: 5.61px;
+}
+
+#briefcase {
+  position: absolute;
+  left: 1522px;
+  top: 158px;
+  width: 40px;
+  height: 40px;
+  overflow: hidden;
+}
+
+#shape {
+  position: absolute;
+  left: 2.5px;
+  top: 3.75px;
+  width: 34.99px;
+  height: 32.19px;
+  background: #000000;
+}
+
+#path {
+  position: absolute;
+  left: -0px;
+  width: 34.99px;
+  height: 32.19px;
+}
+
+#path {
+  position: absolute;
+  left: 12.36px;
+  top: 2.5px;
+  width: 10.27px;
+  height: 2.99px;
+}
+
+#path {
+  position: absolute;
+  left: 3.49px;
+  top: 7.82px;
+  width: 28.02px;
+  height: 16.81px;
+}
+
+#path {
+  position: absolute;
+  left: 14.22px;
+  top: 17.65px;
+  width: 6.55px;
+  height: 4.84px;
+}
+
+#lastpassionzagmail.c {
+  position: absolute;
+  left: 353px;
+  top: 1996px;
+  width: 291px;
+  height: 23px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 19px;
+  line-height: 22px;
+  white-space: nowrap;
+  color: #ffffff;
+}
+
+#facebook:lastpassion {
+  position: absolute;
+  left: 691px;
+  top: 1996px;
+  width: 539px;
+  height: 23px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 19px;
+  line-height: 22px;
+  white-space: nowrap;
+  color: #ffffff;
+}
+
+#53eloffst.marshallto {
+  position: absolute;
+  left: 692px;
+  top: 1901px;
+  width: 512px;
+  height: 46px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 19px;
+  line-height: 22px;
+  white-space: nowrap;
+  text-align: center;
+  color: #000000;
+}
+
+#instagram:lastpassio {
+  position: absolute;
+  left: 1267px;
+  top: 1996px;
+  width: 365px;
+  height: 23px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 19px;
+  line-height: 22px;
+  white-space: nowrap;
+  color: #ffffff;
+}
+
+#rectangle {
+  position: absolute;
+  left: 996px;
+  top: 243px;
+  width: 566px;
+  height: 58px;
+  border-radius: 12px;
+  background: #eee8e3;
+  border: 3px  solid #000000;
+}
+
+#search {
+  position: absolute;
+  left: 1072px;
+  top: 258px;
+  width: 79px;
+  height: 29px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
+  white-space: nowrap;
+  color: #000000;
+}
+
+#search {
+  position: absolute;
+  left: 1015px;
+  top: 255px;
+  width: 34px;
+  height: 34px;
+  overflow: hidden;
+}
+
+#shape {
+  position: absolute;
+  left: 2.83px;
+  top: 2.83px;
+  width: 28.33px;
+  height: 28.33px;
+  background: #306263;
+}
+
+#path {
+  position: absolute;
+  left: -0px;
+  top: 0px;
+  width: 28.33px;
+  height: 28.33px;
+}
+
+#path {
+  position: absolute;
+  left: 2.83px;
+  top: 2.83px;
+  width: 18.42px;
+  height: 18.42px;
+}
+
+#rectangle {
+  position: absolute;
+  left: 333px;
+  top: 248px;
+  width: 607px;
+  height: 46px;
+  border-radius: 12px;
+  background: #f9f6f1;
+  border: 5px  solid #060606;
+}
+
+#jackets {
+  position: absolute;
+  left: 339px;
+  top: 255px;
+  width: 99px;
+  height: 32px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 26px;
+  line-height: 31px;
+  text-decoration-line: underline;
+  white-space: nowrap;
+  color: #000000;
+}
+
+#popular {
+  position: absolute;
+  left: 336px;
+  top: 335px;
+  width: 158px;
+  height: 40px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 33px;
+  line-height: 39px;
+  white-space: nowrap;
+  color: #000000;
+}
+
+#supaleaguet {
+  position: absolute;
+  left: 333px;
+  top: 913px;
+  width: 198px;
+  height: 42px;
+  font-family: 'Impact';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 34px;
+  line-height: 41px;
+  font-stretch: condensed;
+  white-space: nowrap;
+  color: #000000;
+}
+
+#size {
+  position: absolute;
+  left: 333px;
+  top: 955px;
+  width: 36px;
+  height: 39px;
+  font-family: 'Imbue';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 38px;
+  white-space: nowrap;
+  color: #000000;
+}
+
+#qty {
+  position: absolute;
+  left: 333px;
+  top: 989px;
+  width: 30px;
+  height: 39px;
+  font-family: 'Imbue';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 38px;
+  white-space: nowrap;
+  color: #000000;
+}
+
+#supaleaguet {
+  position: absolute;
+  left: 333px;
+  top: 1659px;
+  width: 198px;
+  height: 42px;
+  font-family: 'Impact';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 34px;
+  line-height: 41px;
+  font-stretch: condensed;
+  white-space: nowrap;
+  color: #040404;
+}
+
+#size {
+  position: absolute;
+  left: 333px;
+  top: 1701px;
+  width: 36px;
+  height: 39px;
+  font-family: 'Imbue';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 38px;
+  white-space: nowrap;
+  color: #000000;
+}
+
+#qty {
+  position: absolute;
+  left: 333px;
+  top: 1735px;
+  width: 30px;
+  height: 39px;
+  font-family: 'Imbue';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 38px;
+  white-space: nowrap;
+  color: #000000;
+}
+
+#supaleaguet {
+  position: absolute;
+  left: 971px;
+  top: 1670px;
+  width: 198px;
+  height: 42px;
+  font-family: 'Impact';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 34px;
+  line-height: 41px;
+  font-stretch: condensed;
+  white-space: nowrap;
+  color: #030303;
+}
+
+#size {
+  position: absolute;
+  left: 971px;
+  top: 1712px;
+  width: 36px;
+  height: 39px;
+  font-family: 'Imbue';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 38px;
+  white-space: nowrap;
+  color: #000000;
+}
+
+#qty {
+  position: absolute;
+  left: 971px;
+  top: 1746px;
+  width: 30px;
+  height: 39px;
+  font-family: 'Imbue';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 38px;
+  white-space: nowrap;
+  color: #000000;
+}
+
+#lpjacket {
+  position: absolute;
+  left: 971px;
+  top: 910px;
+  width: 144px;
+  height: 48px;
+  font-family: 'Impact';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 39px;
+  line-height: 47px;
+  font-stretch: condensed;
+  white-space: nowrap;
+  color: #000000;
+}
+
+#trousers {
+  position: absolute;
+  left: 456px;
+  top: 255px;
+  width: 112px;
+  height: 32px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 26px;
+  line-height: 31px;
+  text-decoration-line: underline;
+  white-space: nowrap;
+  color: #000000;
+}
+
+#size {
+  position: absolute;
+  left: 971px;
+  top: 955px;
+  width: 36px;
+  height: 39px;
+  font-family: 'Imbue';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 38px;
+  white-space: nowrap;
+  color: #000000;
+}
+
+#qty {
+  position: absolute;
+  left: 971px;
+  top: 989px;
+  width: 30px;
+  height: 39px;
+  font-family: 'Imbue';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 38px;
+  white-space: nowrap;
+  color: #000000;
+}
+
+#t-shirts {
+  position: absolute;
+  left: 585px;
+  top: 255px;
+  width: 107px;
+  height: 32px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 26px;
+  line-height: 31px;
+  text-decoration-line: underline;
+  white-space: nowrap;
+  color: #000000;
+}
+
+#sweaters {
+  position: absolute;
+  left: 719px;
+  top: 255px;
+  width: 119px;
+  height: 32px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 26px;
+  line-height: 31px;
+  text-decoration-line: underline;
+  white-space: nowrap;
+  color: #000000;
+}
+
+#hats {
+  position: absolute;
+  left: 868px;
+  top: 255px;
+  width: 59px;
+  height: 32px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 26px;
+  line-height: 31px;
+  text-decoration-line: underline;
+  white-space: nowrap;
+  color: #000000;
+}
+
+#path {
+  position: absolute;
+  left: 333px;
+  top: 403px;
+  width: 1222px;
+  height: 6px;
+  border: 3px  solid #000000;
+}
+
+#path {
+  position: absolute;
+  left: 340px;
+  top: 1037px;
+  width: 1222px;
+  height: 6px;
+  border: 3px  solid #000000;
+}
+
+#path {
+  position: absolute;
+  left: 959px;
+  top: 403px;
+  width: 2px;
+  height: 1392.5px;
+  border: 1px  solid #000000;
+}
+
+#path {
+  position: absolute;
+  left: 340px;
+  top: 1793px;
+  width: 1222px;
+  height: 6px;
+  border: 5px  solid #000000;
+}
+
+#mpahla {
+  position: relative;
+  width: 1920px;
+  height: 2160px;
+  overflow: hidden;
+  background: #f9f9f9;
+}
+
+#rectangle {
+  position: absolute;
+  top: 1074px;
+  width: 1920px;
+  height: 1236px;
+  background: linear-gradient(180deg, rgba(249,249,249,0.14) 0%, rgba(255,153,0,0.14) 95.47%);
+}
+
+#rectangle {
+  position: absolute;
+  left: 1920px;
+  top: 726px;
+  width: 1920px;
+  height: 1236px;
+  opacity: 0.26;
+  background: linear-gradient(180deg, rgba(249,249,249,0.52) 0%, rgba(255,153,0,0.52) 95.47%);
+  transform: rotate(180deg);
+}
+
+#last-passion-santic- {
+  position: absolute;
+  left: 121px;
+  top: -128px;
+  width: 660px;
+  height: 791px;
+  background: url('9e816885967c18a51262dd2cb404470a616ebafd.png');
+  background-size: 660px 791px;
+}
+
+#rectangle {
+  position: absolute;
+  left: 237px;
+  top: 1962px;
+  width: 1446px;
+  height: 90px;
+  border-radius: 106px;
+  opacity: 0.8;
+  background: #484647;
+  border: 0px  solid #bdbdbd;
+}
+
+#rectangle {
+  position: absolute;
+  left: 996px;
+  top: 158px;
+  width: 497px;
+  height: 47px;
+  border-radius: 36px;
+  background: #eee2e2;
+}
+
+#home {
+  position: absolute;
+  left: 1027px;
+  top: 165px;
+  width: 65px;
+  height: 29px;
+  font-family: 'Inria Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+  white-space: nowrap;
+  color: #000000;
+}
+
+#mpahla {
+  position: absolute;
+  left: 1129px;
+  top: 165px;
+  width: 90px;
+  height: 29px;
+  font-family: 'Inria Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+  white-space: nowrap;
+  text-align: center;
+  color: #000000;
+}
+
+#contact {
+  position: absolute;
+  left: 1245px;
+  top: 165px;
+  width: 94px;
+  height: 29px;
+  font-family: 'Inria Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+  white-space: nowrap;
+  color: #000000;
+}
+
+#signup {
+  position: absolute;
+  left: 1378px;
+  top: 165px;
+  width: 85px;
+  height: 29px;
+  font-family: 'Inria Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+  white-space: nowrap;
+  color: #000000;
+}
+
+#box {
+  position: absolute;
+  left: 1522px;
+  top: 68px;
+  width: 44px;
+  height: 22px;
+  overflow: hidden;
+}
+
+#path {
+  position: absolute;
+  left: 0.35px;
+  top: 5.08px;
+  width: 24.89px;
+  height: 8.1px;
+  background: #444b54;
+}
+
+#path {
+  position: absolute;
+  left: 6.03px;
+  top: 5.65px;
+  width: 36.17px;
+  height: 17.71px;
+  background: #ffffff;
+}
+
+#shape {
+  position: absolute;
+  left: 6.03px;
+  top: 5.65px;
+  width: 36.17px;
+  height: 17.71px;
+  background: #ffffff;
+}
+
+#path {
+  position: absolute;
+  width: 36.17px;
+  height: 17.71px;
+}
+
+#path {
+  position: absolute;
+  left: 18.09px;
+  width: 18.09px;
+  height: 3.2px;
+}
+
+#path {
+  position: absolute;
+  left: 4.9px;
+  top: 5.09px;
+  width: 20.35px;
+  height: 18.84px;
+  background: #444b54;
+}
+
+#shape {
+  position: absolute;
+  left: 6.03px;
+  top: 5.65px;
+  width: 40.69px;
+  height: 10.17px;
+  background: #ffffff;
+}
+
+#path {
+  position: absolute;
+  left: 18.09px;
+  width: 18.09px;
+  height: 3.2px;
+}
+
+#path {
+  position: absolute;
+  left: 18.09px;
+  width: 18.09px;
+  height: 3.2px;
+}
+
+#path {
+  position: absolute;
+  top: 3.2px;
+  width: 18.09px;
+  height: 3.2px;
+}
+
+#path {
+  position: absolute;
+  left: 18.09px;
+  top: 3.2px;
+  width: 22.61px;
+  height: 6.97px;
+}
+
+#shape {
+  position: absolute;
+  left: 4.97px;
+  top: 5.11px;
+  width: 42.9px;
+  height: 18.8px;
+  background: #444b54;
+}
+
+#path {
+  position: absolute;
+  width: 42.9px;
+  height: 18.8px;
+}
+
+#path {
+  position: absolute;
+  left: 20.27px;
+  top: 1.34px;
+  width: 13.56px;
+  height: 4.82px;
+}
+
+#path {
+  position: absolute;
+  left: 2.19px;
+  top: 4.54px;
+  width: 15.83px;
+  height: 12.91px;
+}
+
+#path {
+  position: absolute;
+  left: 20.27px;
+  top: 8.99px;
+  width: 15.83px;
+  height: 8.48px;
+}
+
+#path {
+  position: absolute;
+  left: 20.8px;
+  top: 4.43px;
+  width: 19.25px;
+  height: 5.61px;
+}
+
+#briefcase {
+  position: absolute;
+  left: 1522px;
+  top: 158px;
+  width: 40px;
+  height: 40px;
+  overflow: hidden;
+}
+
+#shape {
+  position: absolute;
+  left: 2.5px;
+  top: 3.75px;
+  width: 34.99px;
+  height: 32.19px;
+  background: #000000;
+}
+
+#path {
+  position: absolute;
+  left: -0px;
+  width: 34.99px;
+  height: 32.19px;
+}
+
+#path {
+  position: absolute;
+  left: 12.36px;
+  top: 2.5px;
+  width: 10.27px;
+  height: 2.99px;
+}
+
+#path {
+  position: absolute;
+  left: 3.49px;
+  top: 7.82px;
+  width: 28.02px;
+  height: 16.81px;
+}
+
+#path {
+  position: absolute;
+  left: 14.22px;
+  top: 17.65px;
+  width: 6.55px;
+  height: 4.84px;
+}
+
+#lastpassionzagmail.c {
+  position: absolute;
+  left: 353px;
+  top: 1996px;
+  width: 291px;
+  height: 23px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 19px;
+  line-height: 22px;
+  white-space: nowrap;
+  color: #ffffff;
+}
+
+#facebook:lastpassion {
+  position: absolute;
+  left: 691px;
+  top: 1996px;
+  width: 539px;
+  height: 23px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 19px;
+  line-height: 22px;
+  white-space: nowrap;
+  color: #ffffff;
+}
+
+#53eloffst.marshallto {
+  position: absolute;
+  left: 692px;
+  top: 1901px;
+  width: 512px;
+  height: 46px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 19px;
+  line-height: 22px;
+  white-space: nowrap;
+  text-align: center;
+  color: #000000;
+}
+
+#instagram:lastpassio {
+  position: absolute;
+  left: 1267px;
+  top: 1996px;
+  width: 365px;
+  height: 23px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 19px;
+  line-height: 22px;
+  white-space: nowrap;
+  color: #ffffff;
+}
+
+#rectangle {
+  position: absolute;
+  left: 996px;
+  top: 243px;
+  width: 566px;
+  height: 58px;
+  border-radius: 12px;
+  background: #eee8e3;
+  border: 3px  solid #000000;
+}
+
+#search {
+  position: absolute;
+  left: 1072px;
+  top: 258px;
+  width: 79px;
+  height: 29px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
+  white-space: nowrap;
+  color: #000000;
+}
+
+#search {
+  position: absolute;
+  left: 1015px;
+  top: 255px;
+  width: 34px;
+  height: 34px;
+  overflow: hidden;
+}
+
+#shape {
+  position: absolute;
+  left: 2.83px;
+  top: 2.83px;
+  width: 28.33px;
+  height: 28.33px;
+  background: #306263;
+}
+
+#path {
+  position: absolute;
+  left: -0px;
+  top: 0px;
+  width: 28.33px;
+  height: 28.33px;
+}
+
+#path {
+  position: absolute;
+  left: 2.83px;
+  top: 2.83px;
+  width: 18.42px;
+  height: 18.42px;
+}
+
+#rectangle {
+  position: absolute;
+  left: 333px;
+  top: 248px;
+  width: 607px;
+  height: 46px;
+  border-radius: 12px;
+  background: #f9f6f1;
+  border: 5px  solid #060606;
+}
+
+#jackets {
+  position: absolute;
+  left: 339px;
+  top: 255px;
+  width: 99px;
+  height: 32px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 26px;
+  line-height: 31px;
+  text-decoration-line: underline;
+  white-space: nowrap;
+  color: #000000;
+}
+
+#popular {
+  position: absolute;
+  left: 336px;
+  top: 335px;
+  width: 158px;
+  height: 40px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 33px;
+  line-height: 39px;
+  white-space: nowrap;
+  color: #000000;
+}
+
+#supaleaguet {
+  position: absolute;
+  left: 333px;
+  top: 913px;
+  width: 198px;
+  height: 42px;
+  font-family: 'Impact';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 34px;
+  line-height: 41px;
+  font-stretch: condensed;
+  white-space: nowrap;
+  color: #000000;
+}
+
+#size {
+  position: absolute;
+  left: 333px;
+  top: 955px;
+  width: 36px;
+  height: 39px;
+  font-family: 'Imbue';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 38px;
+  white-space: nowrap;
+  color: #000000;
+}
+
+#qty {
+  position: absolute;
+  left: 333px;
+  top: 989px;
+  width: 30px;
+  height: 39px;
+  font-family: 'Imbue';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 38px;
+  white-space: nowrap;
+  color: #000000;
+}
+
+#supaleaguet {
+  position: absolute;
+  left: 333px;
+  top: 1659px;
+  width: 198px;
+  height: 42px;
+  font-family: 'Impact';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 34px;
+  line-height: 41px;
+  font-stretch: condensed;
+  white-space: nowrap;
+  color: #040404;
+}
+
+#size {
+  position: absolute;
+  left: 333px;
+  top: 1701px;
+  width: 36px;
+  height: 39px;
+  font-family: 'Imbue';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 38px;
+  white-space: nowrap;
+  color: #000000;
+}
+
+#qty {
+  position: absolute;
+  left: 333px;
+  top: 1735px;
+  width: 30px;
+  height: 39px;
+  font-family: 'Imbue';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 38px;
+  white-space: nowrap;
+  color: #000000;
+}
+
+#supaleaguet {
+  position: absolute;
+  left: 971px;
+  top: 1670px;
+  width: 198px;
+  height: 42px;
+  font-family: 'Impact';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 34px;
+  line-height: 41px;
+  font-stretch: condensed;
+  white-space: nowrap;
+  color: #030303;
+}
+
+#size {
+  position: absolute;
+  left: 971px;
+  top: 1712px;
+  width: 36px;
+  height: 39px;
+  font-family: 'Imbue';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 38px;
+  white-space: nowrap;
+  color: #000000;
+}
+
+#qty {
+  position: absolute;
+  left: 971px;
+  top: 1746px;
+  width: 30px;
+  height: 39px;
+  font-family: 'Imbue';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 38px;
+  white-space: nowrap;
+  color: #000000;
+}
+
+#lpjacket {
+  position: absolute;
+  left: 971px;
+  top: 910px;
+  width: 144px;
+  height: 48px;
+  font-family: 'Impact';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 39px;
+  line-height: 47px;
+  font-stretch: condensed;
+  white-space: nowrap;
+  color: #000000;
+}
+
+#trousers {
+  position: absolute;
+  left: 456px;
+  top: 255px;
+  width: 112px;
+  height: 32px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 26px;
+  line-height: 31px;
+  text-decoration-line: underline;
+  white-space: nowrap;
+  color: #000000;
+}
+
+#size {
+  position: absolute;
+  left: 971px;
+  top: 955px;
+  width: 36px;
+  height: 39px;
+  font-family: 'Imbue';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 38px;
+  white-space: nowrap;
+  color: #000000;
+}
+
+#qty {
+  position: absolute;
+  left: 971px;
+  top: 989px;
+  width: 30px;
+  height: 39px;
+  font-family: 'Imbue';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 38px;
+  white-space: nowrap;
+  color: #000000;
+}
+
+#t-shirts {
+  position: absolute;
+  left: 585px;
+  top: 255px;
+  width: 107px;
+  height: 32px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 26px;
+  line-height: 31px;
+  text-decoration-line: underline;
+  white-space: nowrap;
+  color: #000000;
+}
+
+#sweaters {
+  position: absolute;
+  left: 719px;
+  top: 255px;
+  width: 119px;
+  height: 32px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 26px;
+  line-height: 31px;
+  text-decoration-line: underline;
+  white-space: nowrap;
+  color: #000000;
+}
+
+#hats {
+  position: absolute;
+  left: 868px;
+  top: 255px;
+  width: 59px;
+  height: 32px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 26px;
+  line-height: 31px;
+  text-decoration-line: underline;
+  white-space: nowrap;
+  color: #000000;
+}
+
+#path {
+  position: absolute;
+  left: 333px;
+  top: 403px;
+  width: 1222px;
+  height: 6px;
+  border: 3px  solid #000000;
+}
+
+#path {
+  position: absolute;
+  left: 340px;
+  top: 1037px;
+  width: 1222px;
+  height: 6px;
+  border: 3px  solid #000000;
+}
+
+#path {
+  position: absolute;
+  left: 959px;
+  top: 403px;
+  width: 2px;
+  height: 1392.5px;
+  border: 1px  solid #000000;
+}
+
+#path {
+  position: absolute;
+  left: 340px;
+  top: 1793px;
+  width: 1222px;
+  height: 6px;
+  border: 5px  solid #000000;
+}
+
+#mpahla {
+  position: relative;
+  width: 1920px;
+  height: 2160px;
+  overflow: hidden;
+  background: #f9f9f9;
+}
+
+#rectangle {
+  position: absolute;
+  top: 1074px;
+  width: 1920px;
+  height: 1236px;
+  background: linear-gradient(180deg, rgba(249,249,249,0.14) 0%, rgba(255,153,0,0.14) 95.47%);
+}
+
+#rectangle {
+  position: absolute;
+  left: 1920px;
+  top: 726px;
+  width: 1920px;
+  height: 1236px;
+  opacity: 0.26;
+  background: linear-gradient(180deg, rgba(249,249,249,0.52) 0%, rgba(255,153,0,0.52) 95.47%);
+  transform: rotate(180deg);
+}
+
+#last-passion-santic- {
+  position: absolute;
+  left: 121px;
+  top: -128px;
+  width: 660px;
+  height: 791px;
+  background: url('9e816885967c18a51262dd2cb404470a616ebafd.png');
+  background-size: 660px 791px;
+}
+
+#rectangle {
+  position: absolute;
+  left: 237px;
+  top: 1962px;
+  width: 1446px;
+  height: 90px;
+  border-radius: 106px;
+  opacity: 0.8;
+  background: #484647;
+  border: 0px  solid #bdbdbd;
+}
+
+#rectangle {
+  position: absolute;
+  left: 996px;
+  top: 158px;
+  width: 497px;
+  height: 47px;
+  border-radius: 36px;
+  background: #eee2e2;
+}
+
+#home {
+  position: absolute;
+  left: 1027px;
+  top: 165px;
+  width: 65px;
+  height: 29px;
+  font-family: 'Inria Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+  white-space: nowrap;
+  color: #000000;
+}
+
+#mpahla {
+  position: absolute;
+  left: 1129px;
+  top: 165px;
+  width: 90px;
+  height: 29px;
+  font-family: 'Inria Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+  white-space: nowrap;
+  text-align: center;
+  color: #000000;
+}
+
+#contact {
+  position: absolute;
+  left: 1245px;
+  top: 165px;
+  width: 94px;
+  height: 29px;
+  font-family: 'Inria Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+  white-space: nowrap;
+  color: #000000;
+}
+
+#signup {
+  position: absolute;
+  left: 1378px;
+  top: 165px;
+  width: 85px;
+  height: 29px;
+  font-family: 'Inria Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+  white-space: nowrap;
+  color: #000000;
+}
+
+#box {
+  position: absolute;
+  left: 1522px;
+  top: 68px;
+  width: 44px;
+  height: 22px;
+  overflow: hidden;
+}
+
+#path {
+  position: absolute;
+  left: 0.35px;
+  top: 5.08px;
+  width: 24.89px;
+  height: 8.1px;
+  background: #444b54;
+}
+
+#path {
+  position: absolute;
+  left: 6.03px;
+  top: 5.65px;
+  width: 36.17px;
+  height: 17.71px;
+  background: #ffffff;
+}
+
+#shape {
+  position: absolute;
+  left: 6.03px;
+  top: 5.65px;
+  width: 36.17px;
+  height: 17.71px;
+  background: #ffffff;
+}
+
+#path {
+  position: absolute;
+  width: 36.17px;
+  height: 17.71px;
+}
+
+#path {
+  position: absolute;
+  left: 18.09px;
+  width: 18.09px;
+  height: 3.2px;
+}
+
+#path {
+  position: absolute;
+  left: 4.9px;
+  top: 5.09px;
+  width: 20.35px;
+  height: 18.84px;
+  background: #444b54;
+}
+
+#shape {
+  position: absolute;
+  left: 6.03px;
+  top: 5.65px;
+  width: 40.69px;
+  height: 10.17px;
+  background: #ffffff;
+}
+
+#path {
+  position: absolute;
+  left: 18.09px;
+  width: 18.09px;
+  height: 3.2px;
+}
+
+#path {
+  position: absolute;
+  left: 18.09px;
+  width: 18.09px;
+  height: 3.2px;
+}
+
+#path {
+  position: absolute;
+  top: 3.2px;
+  width: 18.09px;
+  height: 3.2px;
+}
+
+#path {
+  position: absolute;
+  left: 18.09px;
+  top: 3.2px;
+  width: 22.61px;
+  height: 6.97px;
+}
+
+#shape {
+  position: absolute;
+  left: 4.97px;
+  top: 5.11px;
+  width: 42.9px;
+  height: 18.8px;
+  background: #444b54;
+}
+
+#path {
+  position: absolute;
+  width: 42.9px;
+  height: 18.8px;
+}
+
+#path {
+  position: absolute;
+  left: 20.27px;
+  top: 1.34px;
+  width: 13.56px;
+  height: 4.82px;
+}
+
+#path {
+  position: absolute;
+  left: 2.19px;
+  top: 4.54px;
+  width: 15.83px;
+  height: 12.91px;
+}
+
+#path {
+  position: absolute;
+  left: 20.27px;
+  top: 8.99px;
+  width: 15.83px;
+  height: 8.48px;
+}
+
+#path {
+  position: absolute;
+  left: 20.8px;
+  top: 4.43px;
+  width: 19.25px;
+  height: 5.61px;
+}
+
+#briefcase {
+  position: absolute;
+  left: 1522px;
+  top: 158px;
+  width: 40px;
+  height: 40px;
+  overflow: hidden;
+}
+
+#shape {
+  position: absolute;
+  left: 2.5px;
+  top: 3.75px;
+  width: 34.99px;
+  height: 32.19px;
+  background: #000000;
+}
+
+#path {
+  position: absolute;
+  left: -0px;
+  width: 34.99px;
+  height: 32.19px;
+}
+
+#path {
+  position: absolute;
+  left: 12.36px;
+  top: 2.5px;
+  width: 10.27px;
+  height: 2.99px;
+}
+
+#path {
+  position: absolute;
+  left: 3.49px;
+  top: 7.82px;
+  width: 28.02px;
+  height: 16.81px;
+}
+
+#path {
+  position: absolute;
+  left: 14.22px;
+  top: 17.65px;
+  width: 6.55px;
+  height: 4.84px;
+}
+
+#lastpassionzagmail.c {
+  position: absolute;
+  left: 353px;
+  top: 1996px;
+  width: 291px;
+  height: 23px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 19px;
+  line-height: 22px;
+  white-space: nowrap;
+  color: #ffffff;
+}
+
+#facebook:lastpassion {
+  position: absolute;
+  left: 691px;
+  top: 1996px;
+  width: 539px;
+  height: 23px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 19px;
+  line-height: 22px;
+  white-space: nowrap;
+  color: #ffffff;
+}
+
+#53eloffst.marshallto {
+  position: absolute;
+  left: 692px;
+  top: 1901px;
+  width: 512px;
+  height: 46px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 19px;
+  line-height: 22px;
+  white-space: nowrap;
+  text-align: center;
+  color: #000000;
+}
+
+#instagram:lastpassio {
+  position: absolute;
+  left: 1267px;
+  top: 1996px;
+  width: 365px;
+  height: 23px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 19px;
+  line-height: 22px;
+  white-space: nowrap;
+  color: #ffffff;
+}
+
+#rectangle {
+  position: absolute;
+  left: 996px;
+  top: 243px;
+  width: 566px;
+  height: 58px;
+  border-radius: 12px;
+  background: #eee8e3;
+  border: 3px  solid #000000;
+}
+
+#search {
+  position: absolute;
+  left: 1072px;
+  top: 258px;
+  width: 79px;
+  height: 29px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
+  white-space: nowrap;
+  color: #000000;
+}
+
+#search {
+  position: absolute;
+  left: 1015px;
+  top: 255px;
+  width: 34px;
+  height: 34px;
+  overflow: hidden;
+}
+
+#shape {
+  position: absolute;
+  left: 2.83px;
+  top: 2.83px;
+  width: 28.33px;
+  height: 28.33px;
+  background: #306263;
+}
+
+#path {
+  position: absolute;
+  left: -0px;
+  top: 0px;
+  width: 28.33px;
+  height: 28.33px;
+}
+
+#path {
+  position: absolute;
+  left: 2.83px;
+  top: 2.83px;
+  width: 18.42px;
+  height: 18.42px;
+}
+
+#rectangle {
+  position: absolute;
+  left: 333px;
+  top: 248px;
+  width: 607px;
+  height: 46px;
+  border-radius: 12px;
+  background: #f9f6f1;
+  border: 5px  solid #060606;
+}
+
+#jackets {
+  position: absolute;
+  left: 339px;
+  top: 255px;
+  width: 99px;
+  height: 32px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 26px;
+  line-height: 31px;
+  text-decoration-line: underline;
+  white-space: nowrap;
+  color: #000000;
+}
+
+#popular {
+  position: absolute;
+  left: 336px;
+  top: 335px;
+  width: 158px;
+  height: 40px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 33px;
+  line-height: 39px;
+  white-space: nowrap;
+  color: #000000;
+}
+
+#supaleaguet {
+  position: absolute;
+  left: 333px;
+  top: 913px;
+  width: 198px;
+  height: 42px;
+  font-family: 'Impact';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 34px;
+  line-height: 41px;
+  font-stretch: condensed;
+  white-space: nowrap;
+  color: #000000;
+}
+
+#size {
+  position: absolute;
+  left: 333px;
+  top: 955px;
+  width: 36px;
+  height: 39px;
+  font-family: 'Imbue';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 38px;
+  white-space: nowrap;
+  color: #000000;
+}
+
+#qty {
+  position: absolute;
+  left: 333px;
+  top: 989px;
+  width: 30px;
+  height: 39px;
+  font-family: 'Imbue';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 38px;
+  white-space: nowrap;
+  color: #000000;
+}
+
+#supaleaguet {
+  position: absolute;
+  left: 333px;
+  top: 1659px;
+  width: 198px;
+  height: 42px;
+  font-family: 'Impact';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 34px;
+  line-height: 41px;
+  font-stretch: condensed;
+  white-space: nowrap;
+  color: #040404;
+}
+
+#size {
+  position: absolute;
+  left: 333px;
+  top: 1701px;
+  width: 36px;
+  height: 39px;
+  font-family: 'Imbue';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 38px;
+  white-space: nowrap;
+  color: #000000;
+}
+
+#qty {
+  position: absolute;
+  left: 333px;
+  top: 1735px;
+  width: 30px;
+  height: 39px;
+  font-family: 'Imbue';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 38px;
+  white-space: nowrap;
+  color: #000000;
+}
+
+#supaleaguet {
+  position: absolute;
+  left: 971px;
+  top: 1670px;
+  width: 198px;
+  height: 42px;
+  font-family: 'Impact';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 34px;
+  line-height: 41px;
+  font-stretch: condensed;
+  white-space: nowrap;
+  color: #030303;
+}
+
+#size {
+  position: absolute;
+  left: 971px;
+  top: 1712px;
+  width: 36px;
+  height: 39px;
+  font-family: 'Imbue';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 38px;
+  white-space: nowrap;
+  color: #000000;
+}
+
+#qty {
+  position: absolute;
+  left: 971px;
+  top: 1746px;
+  width: 30px;
+  height: 39px;
+  font-family: 'Imbue';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 38px;
+  white-space: nowrap;
+  color: #000000;
+}
+
+#lpjacket {
+  position: absolute;
+  left: 971px;
+  top: 910px;
+  width: 144px;
+  height: 48px;
+  font-family: 'Impact';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 39px;
+  line-height: 47px;
+  font-stretch: condensed;
+  white-space: nowrap;
+  color: #000000;
+}
+
+#trousers {
+  position: absolute;
+  left: 456px;
+  top: 255px;
+  width: 112px;
+  height: 32px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 26px;
+  line-height: 31px;
+  text-decoration-line: underline;
+  white-space: nowrap;
+  color: #000000;
+}
+
+#size {
+  position: absolute;
+  left: 971px;
+  top: 955px;
+  width: 36px;
+  height: 39px;
+  font-family: 'Imbue';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 38px;
+  white-space: nowrap;
+  color: #000000;
+}
+
+#qty {
+  position: absolute;
+  left: 971px;
+  top: 989px;
+  width: 30px;
+  height: 39px;
+  font-family: 'Imbue';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 38px;
+  white-space: nowrap;
+  color: #000000;
+}
+
+#t-shirts {
+  position: absolute;
+  left: 585px;
+  top: 255px;
+  width: 107px;
+  height: 32px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 26px;
+  line-height: 31px;
+  text-decoration-line: underline;
+  white-space: nowrap;
+  color: #000000;
+}
+
+#sweaters {
+  position: absolute;
+  left: 719px;
+  top: 255px;
+  width: 119px;
+  height: 32px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 26px;
+  line-height: 31px;
+  text-decoration-line: underline;
+  white-space: nowrap;
+  color: #000000;
+}
+
+#hats {
+  position: absolute;
+  left: 868px;
+  top: 255px;
+  width: 59px;
+  height: 32px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 26px;
+  line-height: 31px;
+  text-decoration-line: underline;
+  white-space: nowrap;
+  color: #000000;
+}
+
+#path {
+  position: absolute;
+  left: 333px;
+  top: 403px;
+  width: 1222px;
+  height: 6px;
+  border: 3px  solid #000000;
+}
+
+#path {
+  position: absolute;
+  left: 340px;
+  top: 1037px;
+  width: 1222px;
+  height: 6px;
+  border: 3px  solid #000000;
+}
+
+#path {
+  position: absolute;
+  left: 959px;
+  top: 403px;
+  width: 2px;
+  height: 1392.5px;
+  border: 1px  solid #000000;
+}
+
+#path {
+  position: absolute;
+  left: 340px;
+  top: 1793px;
+  width: 1222px;
+  height: 6px;
+  border: 5px  solid #000000;
+}
+
+#11:09 {
+  position: absolute;
+  width: 0.48px;
+  height: 198.4px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 29px;
+  white-space: nowrap;
+  align-items: flex-end;
+  color: #000000;
+}
+
+#11:09 {
+  position: absolute;
+  width: 0.48px;
+  height: 198.4px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 29px;
+  white-space: nowrap;
+  align-items: flex-end;
+  color: #000000;
+}
+
+#11:09 {
+  position: absolute;
+  width: 0.48px;
+  height: 198.4px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 29px;
+  white-space: nowrap;
+  align-items: flex-end;
+  color: #000000;
+}
+
+#home {
+  position: relative;
+  width: 1920px;
+  height: 2160px;
+  overflow: hidden;
+  background: #f9f9f9;
+}
+
+#rectangle {
+  position: absolute;
+  top: 1074px;
+  width: 1920px;
+  height: 1236px;
+  background: linear-gradient(180deg, rgba(249,249,249,0.52) 0%, rgba(255,153,0,0.52) 95.47%);
+}
+
+#rectangle {
+  position: absolute;
+  left: 1920px;
+  top: 726px;
+  width: 1920px;
+  height: 1236px;
+  opacity: 0.26;
+  background: linear-gradient(180deg, rgba(249,249,249,0.52) 0%, rgba(255,153,0,0.52) 95.47%);
+  transform: rotate(180deg);
+}
+
+#lp-jacket {
+  position: absolute;
+  left: -65.04px;
+  top: 301px;
+  width: 1000px;
+  height: 1171px;
+  background: url('8d1265bf23c335562cdd261787e7ecacb46862a9.png');
+  background-size: 1000px 1171px;
+  transform: rotate(-2deg);
+}
+
+#last-passion-santic- {
+  position: absolute;
+  left: 133px;
+  top: -154px;
+  width: 660px;
+  height: 791px;
+  background: url('9e816885967c18a51262dd2cb404470a616ebafd.png');
+  background-size: 660px 791px;
+}
+
+#rectangle {
+  position: absolute;
+  left: 1069px;
+  top: 838px;
+  width: 443px;
+  height: 58px;
+  border-radius: 106px;
+  background: #ef6a11;
+  border: 0px  solid #bdbdbd;
+}
+
+#rectangle {
+  position: absolute;
+  left: 237px;
+  top: 1962px;
+  width: 1446px;
+  height: 90px;
+  border-radius: 106px;
+  opacity: 0.8;
+  background: #484647;
+  border: 0px  solid #bdbdbd;
+}
+
+#shopnow {
+  position: absolute;
+  left: 1137px;
+  top: 860px;
+  width: 307px;
+  height: 21px;
+  font-family: 'Inclusive Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+  white-space: nowrap;
+  text-align: center;
+  align-items: flex-end;
+  color: #fff1f1;
+}
+
+#mpahlakokasi {
+  position: absolute;
+  left: 736.26px;
+  top: 354px;
+  width: 786px;
+  height: 230px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 72px;
+  line-height: 87px;
+  white-space: nowrap;
+  text-align: left;
+  align-items: flex-end;
+  color: #807a7a;
+}
+
+#aboutus {
+  position: absolute;
+  left: 352px;
+  top: 1311px;
+  width: 199px;
+  height: 46px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 38px;
+  line-height: 45px;
+  white-space: nowrap;
+  text-align: center;
+  color: #ef6a11;
+  border: 1px  solid #808080;
+  text-shadow: 0px 4px 4px rgba(0,0,0,0.25);
+}
+
+#upcomingevents {
+  position: absolute;
+  left: 1036px;
+  top: 1313px;
+  width: 358px;
+  height: 44px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 36px;
+  line-height: 43px;
+  white-space: nowrap;
+  text-align: left;
+  color: #ef6a11;
+}
+
+#itgottoapointwherepo {
+  position: absolute;
+  left: 1102px;
+  top: 663px;
+  width: 420px;
+  height: 96px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 36px;
+  line-height: 43px;
+  white-space: nowrap;
+  text-align: left;
+  color: #000000;
+}
+
+#lastpassionfashionga {
+  position: absolute;
+  left: 1079px;
+  top: 1406px;
+  width: 525px;
+  height: 34px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 29px;
+  white-space: nowrap;
+  color: #656362;
+  text-shadow: ;
+}
+
+#lastpassionfashionga {
+  position: absolute;
+  left: 1079px;
+  top: 1507px;
+  width: 525px;
+  height: 34px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 29px;
+  white-space: nowrap;
+  color: #656362;
+  text-shadow: ;
+}
+
+#asedesignerclothes {
+  position: absolute;
+  left: 1069px;
+  top: 572px;
+  width: 453px;
+  height: 65px;
+  font-family: 'Inconsolata';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 44px;
+  line-height: 46px;
+  white-space: nowrap;
+  text-align: left;
+  color: #000000;
+}
+
+#rectangle {
+  position: absolute;
+  left: 996px;
+  top: 158px;
+  width: 497px;
+  height: 47px;
+  border-radius: 36px;
+  background: #eee2e2;
+}
+
+#home {
+  position: absolute;
+  left: 1027px;
+  top: 165px;
+  width: 65px;
+  height: 29px;
+  font-family: 'Inria Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+  white-space: nowrap;
+  color: #000000;
+}
+
+#mpahla {
+  position: absolute;
+  left: 1129.5px;
+  top: 165px;
+  width: 89px;
+  height: 29px;
+  font-family: 'Inria Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+  white-space: nowrap;
+  text-align: center;
+  color: #000000;
+}
+
+#contact {
+  position: absolute;
+  left: 1245px;
+  top: 165px;
+  width: 94px;
+  height: 29px;
+  font-family: 'Inria Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+  white-space: nowrap;
+  color: #000000;
+}
+
+#signup {
+  position: absolute;
+  left: 1378px;
+  top: 165px;
+  width: 85px;
+  height: 29px;
+  font-family: 'Inria Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+  white-space: nowrap;
+  color: #000000;
+}
+
+#box {
+  position: absolute;
+  left: 1522px;
+  top: 68px;
+  width: 44px;
+  height: 22px;
+  overflow: hidden;
+}
+
+#path {
+  position: absolute;
+  left: 0.35px;
+  top: 5.08px;
+  width: 24.89px;
+  height: 8.1px;
+  background: #444b54;
+}
+
+#path {
+  position: absolute;
+  left: 6.03px;
+  top: 5.65px;
+  width: 36.17px;
+  height: 17.71px;
+  background: #ffffff;
+}
+
+#shape {
+  position: absolute;
+  left: 6.03px;
+  top: 5.65px;
+  width: 36.17px;
+  height: 17.71px;
+  background: #ffffff;
+}
+
+#path {
+  position: absolute;
+  width: 36.17px;
+  height: 17.71px;
+}
+
+#path {
+  position: absolute;
+  left: 18.09px;
+  width: 18.09px;
+  height: 3.2px;
+}
+
+#path {
+  position: absolute;
+  left: 4.9px;
+  top: 5.09px;
+  width: 20.35px;
+  height: 18.84px;
+  background: #444b54;
+}
+
+#shape {
+  position: absolute;
+  left: 6.03px;
+  top: 5.65px;
+  width: 40.69px;
+  height: 10.17px;
+  background: #ffffff;
+}
+
+#path {
+  position: absolute;
+  left: 18.09px;
+  width: 18.09px;
+  height: 3.2px;
+}
+
+#path {
+  position: absolute;
+  left: 18.09px;
+  width: 18.09px;
+  height: 3.2px;
+}
+
+#path {
+  position: absolute;
+  top: 3.2px;
+  width: 18.09px;
+  height: 3.2px;
+}
+
+#path {
+  position: absolute;
+  left: 18.09px;
+  top: 3.2px;
+  width: 22.61px;
+  height: 6.97px;
+}
+
+#shape {
+  position: absolute;
+  left: 4.97px;
+  top: 5.11px;
+  width: 42.9px;
+  height: 18.8px;
+  background: #444b54;
+}
+
+#path {
+  position: absolute;
+  width: 42.9px;
+  height: 18.8px;
+}
+
+#path {
+  position: absolute;
+  left: 20.27px;
+  top: 1.34px;
+  width: 13.56px;
+  height: 4.82px;
+}
+
+#path {
+  position: absolute;
+  left: 2.19px;
+  top: 4.54px;
+  width: 15.83px;
+  height: 12.91px;
+}
+
+#path {
+  position: absolute;
+  left: 20.27px;
+  top: 8.99px;
+  width: 15.83px;
+  height: 8.48px;
+}
+
+#path {
+  position: absolute;
+  left: 20.8px;
+  top: 4.43px;
+  width: 19.25px;
+  height: 5.61px;
+}
+
+#briefcase {
+  position: absolute;
+  left: 1522px;
+  top: 158px;
+  width: 40px;
+  height: 40px;
+  overflow: hidden;
+}
+
+#shape {
+  position: absolute;
+  left: 2.5px;
+  top: 3.75px;
+  width: 34.99px;
+  height: 32.19px;
+  background: #000000;
+}
+
+#path {
+  position: absolute;
+  width: 34.99px;
+  height: 32.19px;
+}
+
+#path {
+  position: absolute;
+  left: 12.36px;
+  top: 2.5px;
+  width: 10.27px;
+  height: 2.99px;
+}
+
+#path {
+  position: absolute;
+  left: 3.49px;
+  top: 7.82px;
+  width: 28.02px;
+  height: 16.81px;
+}
+
+#path {
+  position: absolute;
+  left: 14.22px;
+  top: 17.65px;
+  width: 6.55px;
+  height: 4.84px;
+}
+
+#winteredition-4thjul {
+  position: absolute;
+  left: 1079px;
+  top: 1440px;
+  width: 378px;
+  height: 32px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 26px;
+  line-height: 31px;
+  white-space: nowrap;
+  color: #6e7475;
+}
+
+#asa100blackownedandm {
+  position: absolute;
+  left: 352px;
+  top: 1406px;
+  width: 591px;
+  height: 158px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 31px;
+  white-space: nowrap;
+  color: #6e7475;
+}
+
+#lastpassionclothings {
+  position: absolute;
+  left: 352px;
+  top: 1613px;
+  width: 614px;
+  height: 158px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 31px;
+  white-space: nowrap;
+  color: #6e7475;
+}
+
+#summeredition-5thdec {
+  position: absolute;
+  left: 1079px;
+  top: 1541px;
+  width: 456px;
+  height: 37px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 36px;
+  white-space: nowrap;
+  color: #6e7475;
+}
+
+#ok {
+  position: absolute;
+  left: 1027px;
+  top: 1398px;
+  width: 48px;
+  height: 48px;
+  overflow: hidden;
+}
+
+#shape {
+  position: absolute;
+  left: 7.5px;
+  top: 7.5px;
+  width: 33px;
+  height: 33px;
+  background: #000000;
+}
+
+#path {
+  position: absolute;
+  width: 33px;
+  height: 33px;
+}
+
+#path {
+  position: absolute;
+  left: 3px;
+  top: 3px;
+  width: 27px;
+  height: 27px;
+}
+
+#path {
+  position: absolute;
+  left: 8.25px;
+  top: 9.3px;
+  width: 16.5px;
+  height: 15.9px;
+}
+
+#shape {
+  position: absolute;
+  left: 1035px;
+  top: 1507px;
+  width: 33px;
+  height: 33px;
+  background: #000000;
+}
+
+#path {
+  position: absolute;
+  width: 33px;
+  height: 33px;
+}
+
+#path {
+  position: absolute;
+  left: 3px;
+  top: 3px;
+  width: 27px;
+  height: 27px;
+}
+
+#path {
+  position: absolute;
+  left: 8.25px;
+  top: 9.3px;
+  width: 16.5px;
+  height: 15.9px;
+}
+
+#rectangle {
+  position: absolute;
+  left: 1036px;
+  top: 1627px;
+  width: 399px;
+  height: 52px;
+  border-radius: 106px;
+  background: #ef6a11;
+  border: 0px  solid #bdbdbd;
+}
+
+#ticketsales {
+  position: absolute;
+  left: 1143px;
+  top: 1640px;
+  width: 173px;
+  height: 25px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 29px;
+  white-space: nowrap;
+  color: #ffffff;
+}
+
+#lastpassionzagmail.c {
+  position: absolute;
+  left: 353px;
+  top: 1996px;
+  width: 291px;
+  height: 23px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 19px;
+  line-height: 22px;
+  white-space: nowrap;
+  color: #ffffff;
+}
+
+#facebook:lastpassion {
+  position: absolute;
+  left: 691px;
+  top: 1996px;
+  width: 539px;
+  height: 23px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 19px;
+  line-height: 22px;
+  white-space: nowrap;
+  color: #ffffff;
+}
+
+#53eloffst.marshallto {
+  position: absolute;
+  left: 692px;
+  top: 1901px;
+  width: 512px;
+  height: 46px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 19px;
+  line-height: 22px;
+  white-space: nowrap;
+  text-align: center;
+  color: #000000;
+}
+
+#instagram:lastpassio {
+  position: absolute;
+  left: 1267px;
+  top: 1996px;
+  width: 365px;
+  height: 23px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 19px;
+  line-height: 22px;
+  white-space: nowrap;
+  color: #ffffff;
+}
+
+#shape {
+  position: absolute;
+  left: 304px;
+  top: 1408px;
+  width: 33px;
+  height: 33px;
+  background: #000000;
+}
+
+#path {
+  position: absolute;
+  width: 33px;
+  height: 33px;
+}
+
+#path {
+  position: absolute;
+  left: 3px;
+  top: 3px;
+  width: 27px;
+  height: 27px;
+}
+
+#path {
+  position: absolute;
+  left: 8.25px;
+  top: 9.3px;
+  width: 16.5px;
+  height: 15.9px;
+}
+
+#shape {
+  position: absolute;
+  left: 304px;
+  top: 1616px;
+  width: 33px;
+  height: 33px;
+  background: #000000;
+}
+
+#path {
+  position: absolute;
+  width: 33px;
+  height: 33px;
+}
+
+#path {
+  position: absolute;
+  left: 3px;
+  top: 3px;
+  width: 27px;
+  height: 27px;
+}
+
+#path {
+  position: absolute;
+  left: 8.25px;
+  top: 9.3px;
+  width: 16.5px;
+  height: 15.9px;
+}
+
+#home {
+  position: relative;
+  width: 1920px;
+  height: 2160px;
+  overflow: hidden;
+  background: #f9f9f9;
+}
+
+#rectangle {
+  position: absolute;
+  top: 1074px;
+  width: 1920px;
+  height: 1236px;
+  background: linear-gradient(180deg, rgba(249,249,249,0.52) 0%, rgba(255,153,0,0.52) 95.47%);
+}
+
+#rectangle {
+  position: absolute;
+  left: 1920px;
+  top: 726px;
+  width: 1920px;
+  height: 1236px;
+  opacity: 0.26;
+  background: linear-gradient(180deg, rgba(249,249,249,0.52) 0%, rgba(255,153,0,0.52) 95.47%);
+  transform: rotate(180deg);
+}
+
+#lp-jacket {
+  position: absolute;
+  left: -65.04px;
+  top: 301px;
+  width: 1000px;
+  height: 1171px;
+  background: url('8d1265bf23c335562cdd261787e7ecacb46862a9.png');
+  background-size: 1000px 1171px;
+  transform: rotate(-2deg);
+}
+
+#last-passion-santic- {
+  position: absolute;
+  left: 133px;
+  top: -154px;
+  width: 660px;
+  height: 791px;
+  background: url('9e816885967c18a51262dd2cb404470a616ebafd.png');
+  background-size: 660px 791px;
+}
+
+#rectangle {
+  position: absolute;
+  left: 1069px;
+  top: 838px;
+  width: 443px;
+  height: 58px;
+  border-radius: 106px;
+  background: #ef6a11;
+  border: 0px  solid #bdbdbd;
+}
+
+#rectangle {
+  position: absolute;
+  left: 237px;
+  top: 1962px;
+  width: 1446px;
+  height: 90px;
+  border-radius: 106px;
+  opacity: 0.8;
+  background: #484647;
+  border: 0px  solid #bdbdbd;
+}
+
+#shopnow {
+  position: absolute;
+  left: 1137px;
+  top: 860px;
+  width: 307px;
+  height: 21px;
+  font-family: 'Inclusive Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+  white-space: nowrap;
+  text-align: center;
+  align-items: flex-end;
+  color: #fff1f1;
+}
+
+#mpahlakokasi {
+  position: absolute;
+  left: 736.26px;
+  top: 354px;
+  width: 786px;
+  height: 230px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 72px;
+  line-height: 87px;
+  white-space: nowrap;
+  text-align: left;
+  align-items: flex-end;
+  color: #807a7a;
+}
+
+#aboutus {
+  position: absolute;
+  left: 352px;
+  top: 1311px;
+  width: 199px;
+  height: 46px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 38px;
+  line-height: 45px;
+  white-space: nowrap;
+  text-align: center;
+  color: #ef6a11;
+  border: 1px  solid #808080;
+  text-shadow: 0px 4px 4px rgba(0,0,0,0.25);
+}
+
+#upcomingevents {
+  position: absolute;
+  left: 1036px;
+  top: 1313px;
+  width: 358px;
+  height: 44px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 36px;
+  line-height: 43px;
+  white-space: nowrap;
+  text-align: left;
+  color: #ef6a11;
+}
+
+#itgottoapointwherepo {
+  position: absolute;
+  left: 1102px;
+  top: 663px;
+  width: 420px;
+  height: 96px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 36px;
+  line-height: 43px;
+  white-space: nowrap;
+  text-align: left;
+  color: #000000;
+}
+
+#lastpassionfashionga {
+  position: absolute;
+  left: 1079px;
+  top: 1406px;
+  width: 525px;
+  height: 34px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 29px;
+  white-space: nowrap;
+  color: #656362;
+  text-shadow: ;
+}
+
+#lastpassionfashionga {
+  position: absolute;
+  left: 1079px;
+  top: 1507px;
+  width: 525px;
+  height: 34px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 29px;
+  white-space: nowrap;
+  color: #656362;
+  text-shadow: ;
+}
+
+#asedesignerclothes {
+  position: absolute;
+  left: 1069px;
+  top: 572px;
+  width: 453px;
+  height: 65px;
+  font-family: 'Inconsolata';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 44px;
+  line-height: 46px;
+  white-space: nowrap;
+  text-align: left;
+  color: #000000;
+}
+
+#rectangle {
+  position: absolute;
+  left: 996px;
+  top: 158px;
+  width: 497px;
+  height: 47px;
+  border-radius: 36px;
+  background: #eee2e2;
+}
+
+#home {
+  position: absolute;
+  left: 1027px;
+  top: 165px;
+  width: 65px;
+  height: 29px;
+  font-family: 'Inria Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+  white-space: nowrap;
+  color: #000000;
+}
+
+#mpahla {
+  position: absolute;
+  left: 1129.5px;
+  top: 165px;
+  width: 89px;
+  height: 29px;
+  font-family: 'Inria Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+  white-space: nowrap;
+  text-align: center;
+  color: #000000;
+}
+
+#contact {
+  position: absolute;
+  left: 1245px;
+  top: 165px;
+  width: 94px;
+  height: 29px;
+  font-family: 'Inria Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+  white-space: nowrap;
+  color: #000000;
+}
+
+#signup {
+  position: absolute;
+  left: 1378px;
+  top: 165px;
+  width: 85px;
+  height: 29px;
+  font-family: 'Inria Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+  white-space: nowrap;
+  color: #000000;
+}
+
+#box {
+  position: absolute;
+  left: 1522px;
+  top: 68px;
+  width: 44px;
+  height: 22px;
+  overflow: hidden;
+}
+
+#path {
+  position: absolute;
+  left: 0.35px;
+  top: 5.08px;
+  width: 24.89px;
+  height: 8.1px;
+  background: #444b54;
+}
+
+#path {
+  position: absolute;
+  left: 6.03px;
+  top: 5.65px;
+  width: 36.17px;
+  height: 17.71px;
+  background: #ffffff;
+}
+
+#shape {
+  position: absolute;
+  left: 6.03px;
+  top: 5.65px;
+  width: 36.17px;
+  height: 17.71px;
+  background: #ffffff;
+}
+
+#path {
+  position: absolute;
+  width: 36.17px;
+  height: 17.71px;
+}
+
+#path {
+  position: absolute;
+  left: 18.09px;
+  width: 18.09px;
+  height: 3.2px;
+}
+
+#path {
+  position: absolute;
+  left: 4.9px;
+  top: 5.09px;
+  width: 20.35px;
+  height: 18.84px;
+  background: #444b54;
+}
+
+#shape {
+  position: absolute;
+  left: 6.03px;
+  top: 5.65px;
+  width: 40.69px;
+  height: 10.17px;
+  background: #ffffff;
+}
+
+#path {
+  position: absolute;
+  left: 18.09px;
+  width: 18.09px;
+  height: 3.2px;
+}
+
+#path {
+  position: absolute;
+  left: 18.09px;
+  width: 18.09px;
+  height: 3.2px;
+}
+
+#path {
+  position: absolute;
+  top: 3.2px;
+  width: 18.09px;
+  height: 3.2px;
+}
+
+#path {
+  position: absolute;
+  left: 18.09px;
+  top: 3.2px;
+  width: 22.61px;
+  height: 6.97px;
+}
+
+#shape {
+  position: absolute;
+  left: 4.97px;
+  top: 5.11px;
+  width: 42.9px;
+  height: 18.8px;
+  background: #444b54;
+}
+
+#path {
+  position: absolute;
+  width: 42.9px;
+  height: 18.8px;
+}
+
+#path {
+  position: absolute;
+  left: 20.27px;
+  top: 1.34px;
+  width: 13.56px;
+  height: 4.82px;
+}
+
+#path {
+  position: absolute;
+  left: 2.19px;
+  top: 4.54px;
+  width: 15.83px;
+  height: 12.91px;
+}
+
+#path {
+  position: absolute;
+  left: 20.27px;
+  top: 8.99px;
+  width: 15.83px;
+  height: 8.48px;
+}
+
+#path {
+  position: absolute;
+  left: 20.8px;
+  top: 4.43px;
+  width: 19.25px;
+  height: 5.61px;
+}
+
+#briefcase {
+  position: absolute;
+  left: 1522px;
+  top: 158px;
+  width: 40px;
+  height: 40px;
+  overflow: hidden;
+}
+
+#shape {
+  position: absolute;
+  left: 2.5px;
+  top: 3.75px;
+  width: 34.99px;
+  height: 32.19px;
+  background: #000000;
+}
+
+#path {
+  position: absolute;
+  width: 34.99px;
+  height: 32.19px;
+}
+
+#path {
+  position: absolute;
+  left: 12.36px;
+  top: 2.5px;
+  width: 10.27px;
+  height: 2.99px;
+}
+
+#path {
+  position: absolute;
+  left: 3.49px;
+  top: 7.82px;
+  width: 28.02px;
+  height: 16.81px;
+}
+
+#path {
+  position: absolute;
+  left: 14.22px;
+  top: 17.65px;
+  width: 6.55px;
+  height: 4.84px;
+}
+
+#winteredition-4thjul {
+  position: absolute;
+  left: 1079px;
+  top: 1440px;
+  width: 378px;
+  height: 32px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 26px;
+  line-height: 31px;
+  white-space: nowrap;
+  color: #6e7475;
+}
+
+#asa100blackownedandm {
+  position: absolute;
+  left: 352px;
+  top: 1406px;
+  width: 591px;
+  height: 158px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 31px;
+  white-space: nowrap;
+  color: #6e7475;
+}
+
+#lastpassionclothings {
+  position: absolute;
+  left: 352px;
+  top: 1613px;
+  width: 614px;
+  height: 158px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 31px;
+  white-space: nowrap;
+  color: #6e7475;
+}
+
+#summeredition-5thdec {
+  position: absolute;
+  left: 1079px;
+  top: 1541px;
+  width: 456px;
+  height: 37px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 36px;
+  white-space: nowrap;
+  color: #6e7475;
+}
+
+#ok {
+  position: absolute;
+  left: 1027px;
+  top: 1398px;
+  width: 48px;
+  height: 48px;
+  overflow: hidden;
+}
+
+#shape {
+  position: absolute;
+  left: 7.5px;
+  top: 7.5px;
+  width: 33px;
+  height: 33px;
+  background: #000000;
+}
+
+#path {
+  position: absolute;
+  width: 33px;
+  height: 33px;
+}
+
+#path {
+  position: absolute;
+  left: 3px;
+  top: 3px;
+  width: 27px;
+  height: 27px;
+}
+
+#path {
+  position: absolute;
+  left: 8.25px;
+  top: 9.3px;
+  width: 16.5px;
+  height: 15.9px;
+}
+
+#shape {
+  position: absolute;
+  left: 1035px;
+  top: 1507px;
+  width: 33px;
+  height: 33px;
+  background: #000000;
+}
+
+#path {
+  position: absolute;
+  width: 33px;
+  height: 33px;
+}
+
+#path {
+  position: absolute;
+  left: 3px;
+  top: 3px;
+  width: 27px;
+  height: 27px;
+}
+
+#path {
+  position: absolute;
+  left: 8.25px;
+  top: 9.3px;
+  width: 16.5px;
+  height: 15.9px;
+}
+
+#rectangle {
+  position: absolute;
+  left: 1036px;
+  top: 1627px;
+  width: 399px;
+  height: 52px;
+  border-radius: 106px;
+  background: #ef6a11;
+  border: 0px  solid #bdbdbd;
+}
+
+#ticketsales {
+  position: absolute;
+  left: 1143px;
+  top: 1640px;
+  width: 173px;
+  height: 25px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 29px;
+  white-space: nowrap;
+  color: #ffffff;
+}
+
+#lastpassionzagmail.c {
+  position: absolute;
+  left: 353px;
+  top: 1996px;
+  width: 291px;
+  height: 23px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 19px;
+  line-height: 22px;
+  white-space: nowrap;
+  color: #ffffff;
+}
+
+#facebook:lastpassion {
+  position: absolute;
+  left: 691px;
+  top: 1996px;
+  width: 539px;
+  height: 23px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 19px;
+  line-height: 22px;
+  white-space: nowrap;
+  color: #ffffff;
+}
+
+#53eloffst.marshallto {
+  position: absolute;
+  left: 692px;
+  top: 1901px;
+  width: 512px;
+  height: 46px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 19px;
+  line-height: 22px;
+  white-space: nowrap;
+  text-align: center;
+  color: #000000;
+}
+
+#instagram:lastpassio {
+  position: absolute;
+  left: 1267px;
+  top: 1996px;
+  width: 365px;
+  height: 23px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 19px;
+  line-height: 22px;
+  white-space: nowrap;
+  color: #ffffff;
+}
+
+#shape {
+  position: absolute;
+  left: 304px;
+  top: 1408px;
+  width: 33px;
+  height: 33px;
+  background: #000000;
+}
+
+#path {
+  position: absolute;
+  width: 33px;
+  height: 33px;
+}
+
+#path {
+  position: absolute;
+  left: 3px;
+  top: 3px;
+  width: 27px;
+  height: 27px;
+}
+
+#path {
+  position: absolute;
+  left: 8.25px;
+  top: 9.3px;
+  width: 16.5px;
+  height: 15.9px;
+}
+
+#shape {
+  position: absolute;
+  left: 304px;
+  top: 1616px;
+  width: 33px;
+  height: 33px;
+  background: #000000;
+}
+
+#path {
+  position: absolute;
+  width: 33px;
+  height: 33px;
+}
+
+#path {
+  position: absolute;
+  left: 3px;
+  top: 3px;
+  width: 27px;
+  height: 27px;
+}
+
+#path {
+  position: absolute;
+  left: 8.25px;
+  top: 9.3px;
+  width: 16.5px;
+  height: 15.9px;
+}
+
+#home {
+  position: relative;
+  width: 1920px;
+  height: 2160px;
+  overflow: hidden;
+  background: #f9f9f9;
+}
+
+#rectangle {
+  position: absolute;
+  top: 1074px;
+  width: 1920px;
+  height: 1236px;
+  background: linear-gradient(180deg, rgba(249,249,249,0.52) 0%, rgba(255,153,0,0.52) 95.47%);
+}
+
+#rectangle {
+  position: absolute;
+  left: 1920px;
+  top: 726px;
+  width: 1920px;
+  height: 1236px;
+  opacity: 0.26;
+  background: linear-gradient(180deg, rgba(249,249,249,0.52) 0%, rgba(255,153,0,0.52) 95.47%);
+  transform: rotate(180deg);
+}
+
+#lp-jacket {
+  position: absolute;
+  left: -65.04px;
+  top: 301px;
+  width: 1000px;
+  height: 1171px;
+  background: url('8d1265bf23c335562cdd261787e7ecacb46862a9.png');
+  background-size: 1000px 1171px;
+  transform: rotate(-2deg);
+}
+
+#last-passion-santic- {
+  position: absolute;
+  left: 133px;
+  top: -154px;
+  width: 660px;
+  height: 791px;
+  background: url('9e816885967c18a51262dd2cb404470a616ebafd.png');
+  background-size: 660px 791px;
+}
+
+#rectangle {
+  position: absolute;
+  left: 1069px;
+  top: 838px;
+  width: 443px;
+  height: 58px;
+  border-radius: 106px;
+  background: #ef6a11;
+  border: 0px  solid #bdbdbd;
+}
+
+#rectangle {
+  position: absolute;
+  left: 237px;
+  top: 1962px;
+  width: 1446px;
+  height: 90px;
+  border-radius: 106px;
+  opacity: 0.8;
+  background: #484647;
+  border: 0px  solid #bdbdbd;
+}
+
+#shopnow {
+  position: absolute;
+  left: 1137px;
+  top: 860px;
+  width: 307px;
+  height: 21px;
+  font-family: 'Inclusive Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+  white-space: nowrap;
+  text-align: center;
+  align-items: flex-end;
+  color: #fff1f1;
+}
+
+#mpahlakokasi {
+  position: absolute;
+  left: 736.26px;
+  top: 354px;
+  width: 786px;
+  height: 230px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 72px;
+  line-height: 87px;
+  white-space: nowrap;
+  text-align: left;
+  align-items: flex-end;
+  color: #807a7a;
+}
+
+#aboutus {
+  position: absolute;
+  left: 352px;
+  top: 1311px;
+  width: 199px;
+  height: 46px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 38px;
+  line-height: 45px;
+  white-space: nowrap;
+  text-align: center;
+  color: #ef6a11;
+  border: 1px  solid #808080;
+  text-shadow: 0px 4px 4px rgba(0,0,0,0.25);
+}
+
+#upcomingevents {
+  position: absolute;
+  left: 1036px;
+  top: 1313px;
+  width: 358px;
+  height: 44px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 36px;
+  line-height: 43px;
+  white-space: nowrap;
+  text-align: left;
+  color: #ef6a11;
+}
+
+#itgottoapointwherepo {
+  position: absolute;
+  left: 1102px;
+  top: 663px;
+  width: 420px;
+  height: 96px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 36px;
+  line-height: 43px;
+  white-space: nowrap;
+  text-align: left;
+  color: #000000;
+}
+
+#lastpassionfashionga {
+  position: absolute;
+  left: 1079px;
+  top: 1406px;
+  width: 525px;
+  height: 34px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 29px;
+  white-space: nowrap;
+  color: #656362;
+  text-shadow: ;
+}
+
+#lastpassionfashionga {
+  position: absolute;
+  left: 1079px;
+  top: 1507px;
+  width: 525px;
+  height: 34px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 29px;
+  white-space: nowrap;
+  color: #656362;
+  text-shadow: ;
+}
+
+#asedesignerclothes {
+  position: absolute;
+  left: 1069px;
+  top: 572px;
+  width: 453px;
+  height: 65px;
+  font-family: 'Inconsolata';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 44px;
+  line-height: 46px;
+  white-space: nowrap;
+  text-align: left;
+  color: #000000;
+}
+
+#rectangle {
+  position: absolute;
+  left: 996px;
+  top: 158px;
+  width: 497px;
+  height: 47px;
+  border-radius: 36px;
+  background: #eee2e2;
+}
+
+#home {
+  position: absolute;
+  left: 1027px;
+  top: 165px;
+  width: 65px;
+  height: 29px;
+  font-family: 'Inria Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+  white-space: nowrap;
+  color: #000000;
+}
+
+#mpahla {
+  position: absolute;
+  left: 1129.5px;
+  top: 165px;
+  width: 89px;
+  height: 29px;
+  font-family: 'Inria Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+  white-space: nowrap;
+  text-align: center;
+  color: #000000;
+}
+
+#contact {
+  position: absolute;
+  left: 1245px;
+  top: 165px;
+  width: 94px;
+  height: 29px;
+  font-family: 'Inria Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+  white-space: nowrap;
+  color: #000000;
+}
+
+#signup {
+  position: absolute;
+  left: 1378px;
+  top: 165px;
+  width: 85px;
+  height: 29px;
+  font-family: 'Inria Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+  white-space: nowrap;
+  color: #000000;
+}
+
+#box {
+  position: absolute;
+  left: 1522px;
+  top: 68px;
+  width: 44px;
+  height: 22px;
+  overflow: hidden;
+}
+
+#path {
+  position: absolute;
+  left: 0.35px;
+  top: 5.08px;
+  width: 24.89px;
+  height: 8.1px;
+  background: #444b54;
+}
+
+#path {
+  position: absolute;
+  left: 6.03px;
+  top: 5.65px;
+  width: 36.17px;
+  height: 17.71px;
+  background: #ffffff;
+}
+
+#shape {
+  position: absolute;
+  left: 6.03px;
+  top: 5.65px;
+  width: 36.17px;
+  height: 17.71px;
+  background: #ffffff;
+}
+
+#path {
+  position: absolute;
+  width: 36.17px;
+  height: 17.71px;
+}
+
+#path {
+  position: absolute;
+  left: 18.09px;
+  width: 18.09px;
+  height: 3.2px;
+}
+
+#path {
+  position: absolute;
+  left: 4.9px;
+  top: 5.09px;
+  width: 20.35px;
+  height: 18.84px;
+  background: #444b54;
+}
+
+#shape {
+  position: absolute;
+  left: 6.03px;
+  top: 5.65px;
+  width: 40.69px;
+  height: 10.17px;
+  background: #ffffff;
+}
+
+#path {
+  position: absolute;
+  left: 18.09px;
+  width: 18.09px;
+  height: 3.2px;
+}
+
+#path {
+  position: absolute;
+  left: 18.09px;
+  width: 18.09px;
+  height: 3.2px;
+}
+
+#path {
+  position: absolute;
+  top: 3.2px;
+  width: 18.09px;
+  height: 3.2px;
+}
+
+#path {
+  position: absolute;
+  left: 18.09px;
+  top: 3.2px;
+  width: 22.61px;
+  height: 6.97px;
+}
+
+#shape {
+  position: absolute;
+  left: 4.97px;
+  top: 5.11px;
+  width: 42.9px;
+  height: 18.8px;
+  background: #444b54;
+}
+
+#path {
+  position: absolute;
+  width: 42.9px;
+  height: 18.8px;
+}
+
+#path {
+  position: absolute;
+  left: 20.27px;
+  top: 1.34px;
+  width: 13.56px;
+  height: 4.82px;
+}
+
+#path {
+  position: absolute;
+  left: 2.19px;
+  top: 4.54px;
+  width: 15.83px;
+  height: 12.91px;
+}
+
+#path {
+  position: absolute;
+  left: 20.27px;
+  top: 8.99px;
+  width: 15.83px;
+  height: 8.48px;
+}
+
+#path {
+  position: absolute;
+  left: 20.8px;
+  top: 4.43px;
+  width: 19.25px;
+  height: 5.61px;
+}
+
+#briefcase {
+  position: absolute;
+  left: 1522px;
+  top: 158px;
+  width: 40px;
+  height: 40px;
+  overflow: hidden;
+}
+
+#shape {
+  position: absolute;
+  left: 2.5px;
+  top: 3.75px;
+  width: 34.99px;
+  height: 32.19px;
+  background: #000000;
+}
+
+#path {
+  position: absolute;
+  width: 34.99px;
+  height: 32.19px;
+}
+
+#path {
+  position: absolute;
+  left: 12.36px;
+  top: 2.5px;
+  width: 10.27px;
+  height: 2.99px;
+}
+
+#path {
+  position: absolute;
+  left: 3.49px;
+  top: 7.82px;
+  width: 28.02px;
+  height: 16.81px;
+}
+
+#path {
+  position: absolute;
+  left: 14.22px;
+  top: 17.65px;
+  width: 6.55px;
+  height: 4.84px;
+}
+
+#winteredition-4thjul {
+  position: absolute;
+  left: 1079px;
+  top: 1440px;
+  width: 378px;
+  height: 32px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 26px;
+  line-height: 31px;
+  white-space: nowrap;
+  color: #6e7475;
+}
+
+#asa100blackownedandm {
+  position: absolute;
+  left: 352px;
+  top: 1406px;
+  width: 591px;
+  height: 158px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 31px;
+  white-space: nowrap;
+  color: #6e7475;
+}
+
+#lastpassionclothings {
+  position: absolute;
+  left: 352px;
+  top: 1613px;
+  width: 614px;
+  height: 158px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 31px;
+  white-space: nowrap;
+  color: #6e7475;
+}
+
+#summeredition-5thdec {
+  position: absolute;
+  left: 1079px;
+  top: 1541px;
+  width: 456px;
+  height: 37px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 36px;
+  white-space: nowrap;
+  color: #6e7475;
+}
+
+#ok {
+  position: absolute;
+  left: 1027px;
+  top: 1398px;
+  width: 48px;
+  height: 48px;
+  overflow: hidden;
+}
+
+#shape {
+  position: absolute;
+  left: 7.5px;
+  top: 7.5px;
+  width: 33px;
+  height: 33px;
+  background: #000000;
+}
+
+#path {
+  position: absolute;
+  width: 33px;
+  height: 33px;
+}
+
+#path {
+  position: absolute;
+  left: 3px;
+  top: 3px;
+  width: 27px;
+  height: 27px;
+}
+
+#path {
+  position: absolute;
+  left: 8.25px;
+  top: 9.3px;
+  width: 16.5px;
+  height: 15.9px;
+}
+
+#shape {
+  position: absolute;
+  left: 1035px;
+  top: 1507px;
+  width: 33px;
+  height: 33px;
+  background: #000000;
+}
+
+#path {
+  position: absolute;
+  width: 33px;
+  height: 33px;
+}
+
+#path {
+  position: absolute;
+  left: 3px;
+  top: 3px;
+  width: 27px;
+  height: 27px;
+}
+
+#path {
+  position: absolute;
+  left: 8.25px;
+  top: 9.3px;
+  width: 16.5px;
+  height: 15.9px;
+}
+
+#rectangle {
+  position: absolute;
+  left: 1036px;
+  top: 1627px;
+  width: 399px;
+  height: 52px;
+  border-radius: 106px;
+  background: #ef6a11;
+  border: 0px  solid #bdbdbd;
+}
+
+#ticketsales {
+  position: absolute;
+  left: 1143px;
+  top: 1640px;
+  width: 173px;
+  height: 25px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 29px;
+  white-space: nowrap;
+  color: #ffffff;
+}
+
+#lastpassionzagmail.c {
+  position: absolute;
+  left: 353px;
+  top: 1996px;
+  width: 291px;
+  height: 23px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 19px;
+  line-height: 22px;
+  white-space: nowrap;
+  color: #ffffff;
+}
+
+#facebook:lastpassion {
+  position: absolute;
+  left: 691px;
+  top: 1996px;
+  width: 539px;
+  height: 23px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 19px;
+  line-height: 22px;
+  white-space: nowrap;
+  color: #ffffff;
+}
+
+#53eloffst.marshallto {
+  position: absolute;
+  left: 692px;
+  top: 1901px;
+  width: 512px;
+  height: 46px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 19px;
+  line-height: 22px;
+  white-space: nowrap;
+  text-align: center;
+  color: #000000;
+}
+
+#instagram:lastpassio {
+  position: absolute;
+  left: 1267px;
+  top: 1996px;
+  width: 365px;
+  height: 23px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 19px;
+  line-height: 22px;
+  white-space: nowrap;
+  color: #ffffff;
+}
+
+#shape {
+  position: absolute;
+  left: 304px;
+  top: 1408px;
+  width: 33px;
+  height: 33px;
+  background: #000000;
+}
+
+#path {
+  position: absolute;
+  width: 33px;
+  height: 33px;
+}
+
+#path {
+  position: absolute;
+  left: 3px;
+  top: 3px;
+  width: 27px;
+  height: 27px;
+}
+
+#path {
+  position: absolute;
+  left: 8.25px;
+  top: 9.3px;
+  width: 16.5px;
+  height: 15.9px;
+}
+
+#shape {
+  position: absolute;
+  left: 304px;
+  top: 1616px;
+  width: 33px;
+  height: 33px;
+  background: #000000;
+}
+
+#path {
+  position: absolute;
+  width: 33px;
+  height: 33px;
+}
+
+#path {
+  position: absolute;
+  left: 3px;
+  top: 3px;
+  width: 27px;
+  height: 27px;
+}
+
+#path {
+  position: absolute;
+  left: 8.25px;
+  top: 9.3px;
+  width: 16.5px;
+  height: 15.9px;
+}
+

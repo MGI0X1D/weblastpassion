@@ -1,0 +1,309 @@
+@import url('https://fonts.googleapis.com/css2?family=Inria+Sans:wght@400;700&display=swap');
+
+:root {
+    --primary-orange: #f47920;
+    --bg-light: #fdf5e6;
+    --text-dark: #333;
+    --footer-bg: #7a7a7a;
+    --nav-bg: #eee2e2;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Inria Sans', sans-serif;
+    background-color: var(--bg-light);
+    color: var(--text-dark);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Background Gradients */
+body.home-page {
+    background: linear-gradient(180deg, #fdf5e6 0%, #fdf5e6 60%, #ffcc80 100%);
+}
+
+/* Header */
+.nav {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 20px 10%;
+    width: 100%;
+}
+
+.logo {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    font-weight: 700;
+    font-size: 24px;
+    display: flex;
+    align-items: center;
+}
+
+.logo img {
+    height: 60px;
+    filter: drop-shadow(0 0 5px rgba(255, 0, 255, 0.5));
+}
+
+.nav-container {
+    display: flex;
+    align-items: center;
+}
+
+.nav-container nav {
+    background-color: var(--nav-bg);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 497px;
+    height: 47px;
+    border-radius: 36px;
+    padding: 0 20px;
+    margin-right: 20px;
+}
+
+.nav-container nav a {
+    text-decoration: none;
+    color: #000000;
+    font-family: 'Inria Sans', sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    white-space: nowrap;
+}
+
+.nav-container nav a.active {
+    color: var(--primary-orange);
+}
+
+.cart-icon svg {
+    width: 30px;
+    height: 30px;
+}
+
+/* Hero Section */
+.hero {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 10%;
+    flex: 1;
+}
+
+.hero-image {
+    flex: 1.2;
+    display: flex;
+    justify-content: center;
+}
+
+.hero-image img {
+    max-width: 120%;
+    height: auto;
+    margin-left: -100px;
+}
+
+.hero-text {
+    flex: 0.8;
+    text-align: right;
+}
+
+.hero-text h1 {
+    font-size: 80px;
+    font-weight: 700;
+    color: #8c8c8c;
+    margin-bottom: 0;
+    line-height: 1;
+}
+
+.hero-text h2 {
+    font-size: 36px;
+    font-weight: 400;
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+
+.hero-text p {
+    font-size: 24px;
+    margin-bottom: 40px;
+    width: 300px;
+    margin-left: auto;
+    line-height: 1.2;
+}
+
+button {
+    background-color: var(--primary-orange);
+    color: white;
+    border: none;
+    padding: 15px 80px;
+    border-radius: 30px;
+    font-size: 18px;
+    font-weight: 700;
+    cursor: pointer;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+}
+
+/* Info Section */
+.info {
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 10%;
+    gap: 100px;
+}
+
+.about, .events {
+    flex: 1;
+}
+
+.info h3 {
+    color: var(--primary-orange);
+    font-size: 28px;
+    margin-bottom: 30px;
+}
+
+.info p, .info li {
+    font-size: 16px;
+    line-height: 1.4;
+    margin-bottom: 25px;
+    position: relative;
+    padding-left: 40px;
+}
+
+.info p::before, .info li::before {
+    content: '✓';
+    position: absolute;
+    left: 0;
+    top: 0;
+    border: 1.5px solid #333;
+    border-radius: 50%;
+    width: 25px;
+    height: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.events ul {
+    list-style: none;
+}
+
+button.secondary {
+    margin-top: 20px;
+}
+
+/* Footer */
+.footer {
+    text-align: center;
+    padding: 20px 0;
+}
+
+.footer .address {
+    font-size: 12px;
+    font-weight: 700;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+}
+
+.footer .social-bar {
+    background-color: var(--footer-bg);
+    color: white;
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    border-radius: 50px;
+    margin: 0 10%;
+    font-size: 12px;
+    text-transform: uppercase;
+}
+
+/* Mpahla Page Specific */
+.filters {
+    padding: 20px 10%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.categories {
+    display: flex;
+    gap: 10px;
+}
+
+.categories span {
+    border: 1px solid #000;
+    padding: 2px 15px;
+    border-radius: 15px;
+    font-size: 14px;
+    cursor: pointer;
+    font-weight: 400;
+}
+
+.search-container {
+    position: relative;
+    width: 350px;
+}
+
+.filters input {
+    background-color: var(--nav-bg);
+    border: 1px solid #000;
+    border-radius: 10px;
+    padding: 8px 15px 8px 45px;
+    width: 100%;
+    font-size: 14px;
+}
+
+.search-icon {
+    position: absolute;
+    left: 15px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 20px;
+    height: 20px;
+}
+
+.products {
+    padding: 0 10%;
+}
+
+.products h2 {
+    border-bottom: 2px solid #000;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    font-size: 24px;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    border-left: 2px solid #000;
+}
+
+.product {
+    border-right: 2px solid #000;
+    border-bottom: 2px solid #000;
+    height: 450px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    padding: 30px;
+}
+
+.product h4 {
+    font-size: 28px;
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+
+.product p {
+    font-size: 20px;
+    font-weight: 400;
+}
